@@ -1,6 +1,6 @@
 console.log ('EJERCICIO A:');
 
-var cantidadDeGatos=8;
+var cantidadDeGatos=10;
 var gatitos = ['😺', '😸', '😹'];
 
 function mostrarGatitos(cantidad){
